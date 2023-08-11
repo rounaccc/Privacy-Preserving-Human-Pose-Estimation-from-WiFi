@@ -12,4 +12,4 @@ logging.basicConfig(level=logging.INFO,
                     handlers=[logging.FileHandler(log_filepath),
                               logging.StreamHandler(sys.stdout)])
 
-logger = logging.getLogger("Privacy-Preserving-Human-Pose-Estimation-from-WiFi")
+logger = logging.getLogger("PrivacyPreservingHumanPoseEstimationFromWiFi")

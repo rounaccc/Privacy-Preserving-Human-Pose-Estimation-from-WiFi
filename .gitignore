@@ -2,6 +2,7 @@
 .venv/
 Dataset/
 Testing notebook/
+Research Papers/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
