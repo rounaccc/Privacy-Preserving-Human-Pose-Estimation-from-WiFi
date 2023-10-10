@@ -1,0 +1,4 @@
+[2023-10-10 20:27:25,599: INFO: common] Successfully read yaml file from config\config.yaml
+[2023-10-10 20:27:25,602: INFO: common] Successfully read yaml file from params.yaml
+[2023-10-10 20:27:25,604: INFO: common] Created directory at: artifacts
+[2023-10-10 20:27:25,606: INFO: common] Created directory at: artifacts/data_transformation
