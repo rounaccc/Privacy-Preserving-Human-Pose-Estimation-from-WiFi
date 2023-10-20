@@ -1,5 +1,8 @@
 artifacts_root: artifacts
 
 data_transformation:
-  data_dir: Dataset/CSI dataset for wireless human sensing/dataset/AR-1a
+  data_dir: Dataset/CSI dataset for wireless human sensing/dataset
   root_dir: artifacts/data_transformation
+
+
+  

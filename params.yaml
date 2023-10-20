@@ -1,1 +1,6 @@
-temp: 
+data_transformation:
+  window_size: 5
+  n_sigmas: 3
+  level: 3
+  wavelet: 'db4'
+  threshold: 0.3
