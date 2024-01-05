@@ -4,6 +4,10 @@ Dataset/
 Testing notebook/
 Research Papers/
 
+artifacts/data_transformation/AR-1a/AR1a_C.mat.npy
+artifacts/data_transformation/AR-1a/AR1a_E.mat.npy
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
